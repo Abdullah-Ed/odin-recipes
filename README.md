@@ -1,3 +1,3 @@
-# Basic recipe website
+# Basic recipes website
 
-A simple recipe website made only using HTML
+A simple recipes website made only using HTML
